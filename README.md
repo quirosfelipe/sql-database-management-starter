@@ -18,3 +18,4 @@ worry about silly mistakes because it's in a file and they're easy to fix.
   * **01-create-users.sql** to write statements that will create users
   * **01-create-databases.sql** to write statements that will create databases
   * **01-create-aa-times-tables.sql** will create related tables in a database
+# mb--mgmt-project
